@@ -301,7 +301,6 @@ if (sch==True):                                                                 
 
 
 
-#streamlit run C:\Users\imads\Desktop\SEOproject\SEO_audit.py
+#dans le terminal : streamlit run *coller chemin d'accès*
 
-#-------- TO_DO code : indexation, conditions(url : contient, commence par, finit par, etc...)
 
